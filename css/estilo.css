@@ -1,5 +1,5 @@
 body {
-  background: #CD853F;
+  background: #DCDCDC;
   margin:20px;
 }
 
@@ -26,7 +26,7 @@ section {
 
 footer {
   position:absolute;
-  top:800px;
+  top:820px;
   background-color:rgba(255, 255, 255, 0.5);
   width: 95%;
 	padding:10px;
@@ -34,9 +34,16 @@ footer {
   margin-bottom:30px;
 }
 
+#ull {
+  width: 50px; height: 50px;
+  position:absolute;
+  top:10px;
+  right:80px;
+}
+
 #cabecera {
   float:left;
-  font-family: "Arial";
+  font-family: "monospace";
   background-color: rgba(255,255,255,0.4);
   width: 95%;
 	padding:10px;
@@ -44,9 +51,14 @@ footer {
   background-image: url('../images/ull.png');
 }
 
+p {
+  /*font-size:16px;*/
+}
+
 ul li {
   display:inline;
   padding:5px;
+  font-size:16px;
 }
 
 #redes {
@@ -60,9 +72,9 @@ ul li {
 }
 
 #apartado {
-  font-family:"comic sans";
+  font-family:"monospace";
   color:white;
-  background-color:#556B2F;
+  background-color:#708090;
   width:500px;
   text-align:left;
   padding: 5px;
