@@ -41,7 +41,7 @@ Para ejecutarlo, lanzamos node desde un terminal pasando como parámetro en lín
 
 Como puede comprobarse en la siguiente imagen, se muestra correctamente el mensaje en pantalla:
 
-  ![node](node.png)
+  ![node](https://github.com/alu0100825503/alu0100825503.github.io/blob/master/tutorial/node.png?raw=true)
 
 ### 1.4 Un ejemplo más práctico: servidor HTTP básico
 
@@ -57,7 +57,7 @@ Sin entrar en detalles de implementación, copiaremos el código siguiente a un 
 
 Básicamente, este servidor se encarga de escuchar peticiones en el puerto 8888 de nuestra máquina y, cuando escribamos en la barra de direcciones "http://localhost:8888/", se desplegará un página con el mensaje "Hola Mundo".
 
-  ![server](server.png)
+  ![server](https://github.com/alu0100825503/alu0100825503.github.io/blob/master/tutorial/server.png?raw=true)
 
 2. Express
 -----------
